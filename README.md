@@ -40,6 +40,10 @@ What it does:
 - Professional Experience (Badass Bullet formula, 3-tier hierarchy: company → role → sub-project)
 - Certifications
 
+## Output Example
+
+![Resume template output](docs/Draft.png)
+
 ## Quick Start
 
 **1. Install the skill**
